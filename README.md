@@ -39,7 +39,7 @@ El modelo fue validado con un dataset real de **414 transferencias**, obteniendo
 ## 🚀 5. Instrucciones de Ejecución
 Siga estos pasos para reproducir los resultados en **Google Colab**:
 
-1.  **Clonar** el repositorio o descargar el archivo `Desarrollo_2 (3).ipynb`.
+1.  **Clonar** el repositorio o descargar el archivo `proyecto_mia_cperez.ipynb`.
 2.  **Cargar** el notebook en el entorno de Colab.
 3.  **Subir** los archivos de la carpeta `/data` (`MAESTRO_FINAL_LAYOUT_ESPEJO.csv` y `TRANSFERENCIA_4TO_TRIMESTRE_2025.csv`).
 4.  **Instalar dependencias:**
