@@ -50,7 +50,6 @@ Siga estos pasos para reproducir los resultados en **Google Colab**:
 
 ## 📂 6. Estructura de Carpetas
 ```text
-├── data/               # Archivos CSV (Maestros y Pedidos)
-├── notebooks/          # Desarrollo_2 (3).ipynb (Código principal)
-├── results/            # Capturas de métricas y gráficos 3D
+├── data/               # Archivos CSV (Maestros, Pedidos, nuevo pedido)
+├── notebooks/          # proyecto_mia_cperez.ipynb (Código principal)
 └── README.md           # Documentación del proyecto
